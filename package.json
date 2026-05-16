@@ -1,0 +1,17 @@
+{
+  "name": "state-machine-controller",
+  "version": "1.0.0",
+  "description": "Professional conversation state machine controller",
+  "main": "src/app.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/demo.js"
+  },
+  "keywords": [
+    "state-machine",
+    "chatbot",
+    "conversation-controller"
+  ],
+  "author": "Internship Project",
+  "license": "MIT"
+}
